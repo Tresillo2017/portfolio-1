@@ -10,7 +10,8 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
     # Step 1: Checkout the code
     - name: Checkout code
