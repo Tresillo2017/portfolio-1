@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81a28e35-9102-4000-9b38-35cf035f22aa" name="Changes" comment="Full rebuild in 3h :)">
+      <changelist_data name="Tomás Palma" email="tomas@tomasps.com" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/articles.Criptomonedas-mineria-y-precios.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/articles.Cronica.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/articles.Fotoreportaje.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/articles.Legal-Notice.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/articles.Noticia-Don-Quijote.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/articles.Privacy-Policy.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/articles.Reflexion-Filosofica-MrRobot.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/116.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/Arturo-Perez.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/Santiago.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/Takeout.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/beneficios-riesgos-de-las-criptomonedas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/donquijote.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/modern-react-css-banner-placeholder.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/modern-react-css-banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/robot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/gamestack-list-large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/gamestack-list-large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/gamestack-list.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/gamestack-list.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/gamestack-login-large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/gamestack-login-large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/gamestack-login.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/gamestack-login.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/profile-large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/profile-large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/profile-placeholder.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/profile-placeholder.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/profile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/profile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/slice-app.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/slice-app.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/spr-lesson-builder-dark.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/spr-lesson-builder-dark.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/spr-lesson-builder-light.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/spr-lesson-builder-light.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/icon/icons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/icon/icons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/icon/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/icon/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layouts/navbar/nav-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/layouts/navbar/nav-data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/articles.hello-world.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/articles.modern-styling-in-react.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/home/home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/home/home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/home/profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/home/profile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/projects.smart-sparrow/earth.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/projects.tesla-dashboard/earth.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/projects.smart-sparrow/earth.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/projects.tesla-dashboard/earth.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/projects.smart-sparrow/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/projects.tesla-dashboard/route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/projects.smart-sparrow/smart-sparrow.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/projects.tesla-dashboard/smart-sparrow.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/projects.smart-sparrow/smart-sparrow.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/projects.tesla-dashboard/smart-sparrow.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/uses/uses.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/uses/uses.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/inspiration.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/static/inspiration.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Tomás Palma &lt;tomas@tomasps.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Tresillo2017&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Tresillo2017/portfolio-1.git&quot;,
+    &quot;accountId&quot;: &quot;929ba64b-bbc0-4092-8a1b-05e7ca0fc73e&quot;
+  }
+}</component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2pOZoi3yO7eJodmfobhGF1mTgEy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "rebuild",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "K:/GitHub/portfolio-1/app/routes/articles",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "K:\\GitHub\\portfolio-1\\node_modules\\stylelint",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "sshConsole",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="K:\GitHub\portfolio-1\app\routes\articles" />
+      <recent name="K:\GitHub\portfolio-1\public\static" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81a28e35-9102-4000-9b38-35cf035f22aa" name="Changes" comment="" />
+      <created>1732639260399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732639260399</updated>
+      <workItem from="1732639261533" duration="923000" />
+      <workItem from="1732640643336" duration="378000" />
+      <workItem from="1732641351939" duration="12000" />
+      <workItem from="1732641621558" duration="396000" />
+      <workItem from="1732642039839" duration="5356000" />
+    </task>
+    <task id="LOCAL-00001" summary="Updated analytics url">
+      <option name="closed" value="true" />
+      <created>1732639601562</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732639601562</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Full rebuild in 3h :)">
+      <option name="closed" value="true" />
+      <created>1732647497120</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732647497120</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated analytics url" />
+    <MESSAGE value="Full rebuild in 3h :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Full rebuild in 3h :)" />
+  </component>
+</project>
