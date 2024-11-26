@@ -1,11 +1,11 @@
 {
-  "name": "Hamish Williams",
-  "role": "Designer",
-  "disciplines": ["Developer", "Prototyper", "Animator", "Illustrator", "Modder"],
-  "url": "https://hamishw.com",
-  "bluesky": "hamishw.com",
-  "figma": "@Hamish",
-  "github": "HamishMW",
-  "repo": "https://github.com/HamishMW/portfolio",
+  "name": "Tomas Palma",
+  "role": "Developer",
+  "disciplines": ["Developer", "Photographer", "Designer"],
+  "url": "https://tomasps.com",
+  "bluesky": "tomasps.bsky.social",
+  "github": "Tresillo2017",
+  "repo": "https://github.com/Tresillo2017/portfolio-1",
+  "twitter": "toomas_ps",
   "ascii": "__  __  __\n\u005C \u005C \u005C \u005C \u005C\u2215\n \u005C \u005C\u2215\u005C \u005C\n  \u005C\u2215  \u005C\u2215\n"
 }

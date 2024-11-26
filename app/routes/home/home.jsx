@@ -92,83 +92,85 @@ export const Home = () => {
   }, [visibleSections]);
 
   return (
-    <div className={styles.home}>
-      <Intro
-        id="intro"
-        sectionRef={intro}
-        scrollIndicatorHidden={scrollIndicatorHidden}
-      />
-      <ProjectSummary
-        id="project-1"
-        sectionRef={projectOne}
-        visible={visibleSections.includes(projectOne.current)}
-        index={1}
-        title="Designing the future of education"
-        description="Designing a platform to help educators build better online courseware"
-        buttonText="View project"
-        buttonLink="/projects/smart-sparrow"
-        model={{
-          type: 'laptop',
-          alt: 'Smart Sparrow lesson builder',
-          textures: [
-            {
-              srcSet: `${sprTexture} 1280w, ${sprTextureLarge} 2560w`,
-              placeholder: sprTexturePlaceholder,
-            },
-          ],
-        }}
-      />
-      <ProjectSummary
-        id="project-2"
-        alternate
-        sectionRef={projectTwo}
-        visible={visibleSections.includes(projectTwo.current)}
-        index={2}
-        title="Video game progress tracking"
-        description="Design and development for a video game tracking app built in React Native"
-        buttonText="View website"
-        buttonLink="https://gamestack.hamishw.com"
-        model={{
-          type: 'phone',
-          alt: 'App login screen',
-          textures: [
-            {
-              srcSet: `${gamestackTexture} 375w, ${gamestackTextureLarge} 750w`,
-              placeholder: gamestackTexturePlaceholder,
-            },
-            {
-              srcSet: `${gamestackTexture2} 375w, ${gamestackTexture2Large} 750w`,
-              placeholder: gamestackTexture2Placeholder,
-            },
-          ],
-        }}
-      />
-      <ProjectSummary
-        id="project-3"
-        sectionRef={projectThree}
-        visible={visibleSections.includes(projectThree.current)}
-        index={3}
-        title="Biomedical image collaboration"
-        description="Increasing the amount of collaboration in Slice, an app for biomedical imaging"
-        buttonText="View project"
-        buttonLink="/projects/slice"
-        model={{
-          type: 'laptop',
-          alt: 'Annotating a biomedical image in the Slice app',
-          textures: [
-            {
-              srcSet: `${sliceTexture} 800w, ${sliceTextureLarge} 1920w`,
-              placeholder: sliceTexturePlaceholder,
-            },
-          ],
-        }}
-      />
-      <Profile
-        sectionRef={details}
-        visible={visibleSections.includes(details.current)}
-        id="details"
-      />
-      <Footer />
-    </div>
+      <div className={styles.home}>
+          <Intro
+              id="intro"
+              sectionRef={intro}
+              scrollIndicatorHidden={scrollIndicatorHidden}
+          />
+          <ProjectSummary
+              id="project-1"
+              sectionRef={projectOne}
+              visible={visibleSections.includes(projectOne.current)}
+              index={1}
+              title="Tesla-Dashboard"
+              description="Tesla dashboard for beamng drive"
+              buttonText="View more"
+              buttonLink="/projects/tesla-dashboard"
+              model={{
+                  type: 'laptop',
+                  alt: 'Screenshot of the current UI',
+                  textures: [
+                      {
+                          srcSet: `${sprTexture} 1280w, ${sprTextureLarge} 2560w`,
+                          placeholder: sprTexturePlaceholder,
+                      },
+                  ],
+              }}
+          />
+          <ProjectSummary
+              id="project-2"
+              alternate
+              sectionRef={projectTwo}
+              visible={visibleSections.includes(projectTwo.current)}
+              index={2}
+              title="SpainRP"
+              description="SpainRP Minecraft Server"
+              buttonText="View website"
+              buttonLink="https://spainrp.me"
+              model={{
+                  type: 'phone',
+                  alt: 'App login screen',
+                  textures: [
+                      {
+                          srcSet: `${gamestackTexture} 375w, ${gamestackTextureLarge} 750w`,
+                          placeholder: gamestackTexturePlaceholder,
+                      },
+                      {
+                          srcSet: `${gamestackTexture2} 375w, ${gamestackTexture2Large} 750w`,
+                          placeholder: gamestackTexture2Placeholder,
+                      },
+                  ],
+              }}
+          />
+          <ProjectSummary
+              id="project-3"
+              sectionRef={projectThree}
+              visible={visibleSections.includes(projectThree.current)}
+              index={3}
+              title="Vectorify"
+              description="A vector drawing app made with C# and WinUI3"
+              buttonText="View website"
+              buttonLink="https://github.com/tresillo2017/vectorify"
+              model={{
+                  type: 'laptop',
+                  alt: 'A screenshot of the current UI',
+                  textures: [
+                      {
+                          srcSet: `${sliceTexture} 800w, ${sliceTextureLarge} 1920w`,
+                          placeholder: sliceTexturePlaceholder,
+                      },
+                  ],
+              }}
+          />
+          <Profile
+              sectionRef={details}
+              visible={visibleSections.includes(details.current)}
+              id="details"
+          />
+          <Footer/>
+          <script defer src="https://analytics.tomasps.com/script.js"
+                  data-website-id="c3881412-0fc6-4c4a-a55c-2218851a884e"></script>
+      </div>
   );
 };

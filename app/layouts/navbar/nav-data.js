@@ -13,22 +13,23 @@ export const navLinks = [
     label: 'Articles',
     pathname: '/articles',
   },
-  {
-    label: 'Contact',
-    pathname: '/contact',
-  },
 ];
 
 export const socialLinks = [
   {
-    label: 'Bluesky',
-    url: `https://bsky.app/profile/${config.bluesky}`,
-    icon: 'bluesky',
+    label: 'Photography',
+    url: 'https://photography.tomasps.com',
+    icon: 'photography',
   },
   {
-    label: 'Figma',
-    url: `https://www.figma.com/${config.figma}`,
-    icon: 'figma',
+    label: 'twitter',
+    url: `https://twitter.com/toomas_ps/`,
+    icon: 'twitter',
+  },
+  {
+    label: 'Mail',
+    url: `mailto:contact@tomasps.com`,
+    icon: 'email',
   },
   {
     label: 'Github',

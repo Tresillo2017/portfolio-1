@@ -58,5 +58,17 @@
   "bluesky": {
     "width": 24,
     "height": 24
-  }
+  },
+  "twitter": {
+     "width": 24,
+     "height": 24
+    },
+  "email": {
+    "width": 24,
+    "height": 24
+  },
+  "photo": {
+    "width": 24,
+    "height": 24
+  },
 }
